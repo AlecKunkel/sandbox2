@@ -1,0 +1,21 @@
+* Create a new branch named 'blue'
+
+* Switch to your 'blue' branch
+
+* Make a change to a file, and commit it
+
+* Create and switch to a new branch based off 
+  your master branch named 'email'
+  - git checkout master; git branch email; git checkout email
+  - git branch email master; git checkout email
+  - git checkout -b email master
+
+* Make a change to two files, commit them
+
+* Switch back to your master branch
+
+* Make some changes, then stash them
+
+* Merge both branches in
+
+* Apply your stashed changes and commit them
