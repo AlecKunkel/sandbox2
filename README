@@ -1,1 +1,8 @@
-Hello World.
+Please use this sandbox to try and test Git commands while reading the Pro Git Book - http://progit.org/book/
+
+1. Read Chapter 1 Getting Started
+2. Read Chapter 2 Git Basics
+   - Then try the tutorial 1_basic.txt
+3. Read Chapter 3 Git Branching
+   - Then try the tutorial 2_branch_merge.txt
+   - Then try the tutorial 2_remotes.txt
