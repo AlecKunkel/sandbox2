@@ -1,14 +1,13 @@
-* Create a new branch named 'blue'
+* Create a new branch named 'beta-<your name>'
 
-* Switch to your 'blue' branch
+* Switch to your 'beta-<your name>' branch
 
 * Make a change to a file, and commit it
 
-* Create and switch to a new branch based off 
-  your master branch named 'email'
-  - git checkout master; git branch email; git checkout email
-  - git branch email master; git checkout email
-  - git checkout -b email master
+* Create and switch to a new branch based off your master branch named 'GA-<your name>'. This can be done in MANY ways as below:
+  - git checkout master; git branch GA-<your name>; git checkout GA-<your name>
+  - git branch GA-<your name> master; git checkout GA-<your name>
+  - git checkout -b GA-<your name> master
 
 * Make a change to two files, commit them
 
