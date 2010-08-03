@@ -10,5 +10,6 @@
 * Commit each change separately
 
 * Modify two places in the same file, commit each part separately
+* Go get Coffee.
 
  
