@@ -19,4 +19,3 @@
 
 * Apply your stashed changes and commit them
 
-* Cry about your pitiful existence.

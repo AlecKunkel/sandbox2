@@ -11,9 +11,3 @@
 
 * Modify two places in the same file, commit each part separately
 
-* Go get Coffee.
-
-* Do nothing. 
-
-* Get some Coke Zero. 
-
