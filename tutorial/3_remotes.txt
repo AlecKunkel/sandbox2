@@ -1,20 +1,9 @@
-* Clone the sandbox repository
+* Fork and clone the sandbox repository
 
 	git@github.com:appian/sandbox.git
 
 * Add your sandbox file (say sand-[myname].txt), commit and push it
 
-* Modify someone else's sandbox file, commit and push
+* Create a branch named 'exp-[myname]'
 
-* Create a branch with an experimental recipe named 'experiment'
-
-* Push that branch to the server named 'exp-[myname]'
-
-* Fetch from the server again until you see new branches
-
-* Merge one of those branches into master and push back
-
-* Create a new local branch based off a remote branch, 
-  commit to it and push back
-
-* Tag a commit and push your tag
+* Push that branch your fork
