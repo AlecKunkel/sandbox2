@@ -1,9 +1,0 @@
-* Fork and clone the sandbox repository
-
-	git@github.com:appian/sandbox.git
-
-* Add your sandbox file (say sand-[myname].txt), commit and push it
-
-* Create a branch named 'exp-[myname]'
-
-* Push that branch your fork

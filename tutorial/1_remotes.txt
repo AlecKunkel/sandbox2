@@ -1,0 +1,6 @@
+* Fork this repository
+* Clone this repository locally and add your fork as a remote
+** Use your GitHub username as the remote name
+** Use 'appian' as the remote name for the main fork
+* Create a branch 'feature'
+* Add a file, commit, and push
