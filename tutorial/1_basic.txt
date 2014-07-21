@@ -1,13 +1,7 @@
-* Initialize a new repository
-
+* Initialize a new repository (hint: git help init)
 * Add a few source code files to it, then commit
-
 * Modify two files
-
-* Stage one file, get a diff of what is and is not going to be 
-  committed
-
+* Stage one file, get a diff of what is and is not going to be committed
 * Commit each change separately
-
-* Modify two places in the same file, commit each part separately
+* Modify two places in the same file, commit each part separately (hint: git help add, look for "patch")
 
