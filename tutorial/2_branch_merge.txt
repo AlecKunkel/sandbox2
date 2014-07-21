@@ -1,21 +1,10 @@
-* Create a new branch named 'beta-<your name>'
-
-* Switch to your 'beta-<your name>' branch
-
+* Create a new branch named 'feature'
+* Switch to your 'feature' branch
 * Make a change to a file, and commit it
-
-* Create and switch to a new branch based off your master branch named 'GA-<your name>'. This can be done in MANY ways as below:
-  - git checkout master; git branch GA-<your name>; git checkout GA-<your name>
-  - git branch GA-<your name> master; git checkout GA-<your name>
-  - git checkout -b GA-<your name> master
-
-* Make a change to two files, commit them
-
-* Switch back to your master branch
-
+* Create and switch to a new branch based off master named 'release'
+* Make a change to a different file, and commit it
+* Switch back to the master branch
 * Make some changes, then stash them
-
-* Merge both branches in
-
-* Apply your stashed changes and commit them
-
+* Merge the 'feature' branch into 'release'
+* Merge the 'release' branch into master
+* Apply your stashed changes and commit them to master
