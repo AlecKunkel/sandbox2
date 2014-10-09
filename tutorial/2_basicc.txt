@@ -132,4 +132,4 @@
 * Stage one file, get a diff of what is and is not going to be committed
 * Commit each change separately
 * Modify two places in the same file, commit each part separately (hint: git help add, look for "patch")
-* Change from 2 -- section   2
+* Change from 2 -- section 2
